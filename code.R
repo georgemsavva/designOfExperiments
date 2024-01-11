@@ -19,7 +19,7 @@ dabest_obj <- load(non_proportional_data,
                    x = Group, y = Measurement,
                    idx = c("Control 1", "Test 1")
 )
-
+ 
 dabest_obj$is_paired
 dabest_obj.mean_diff <- mean_diff(dabest_obj)
 
