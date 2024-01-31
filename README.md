@@ -2,8 +2,7 @@
 
 This repository hosts the lecture notes, discussion notes and some code to support my half-day workshop in design and analysis of experiments.
 
-Slides are here: [Experimental Design and Analysis 2024 - Jan 12.pptx](https%3A%2F%2Fgithub.com%2Fgeorgemsavva%2FdesignOfExperiments%2Fblob%2Fmaster%2FExperimental%20Design%20and%20Analysis%202024%20-%20Jan.pptx)
-
+Slides are here: [Experimental Design and Analysis 2024 - Jan 12.pptx](https://github.com/georgemsavva/designOfExperiments/releases/download/v1.0/Experimental.Design.and.Analysis.2024.-.Jan.12.pptx)
 
 
 
