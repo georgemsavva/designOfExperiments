@@ -6,7 +6,7 @@ Slides are here: [Experimental Design and Analysis 2024 - Jan 12.pptx](https://g
 
 Material for my "Introduction to R for Statistics" and my other statistics/R educational resources are here: [Statistics and R in Biology](https://georgemsavva.github.io/R_for_Statistics/).
 
-Contact me at [george.savva@quadram.ac.uk](mailto:hientran@clientdiary.com)
+Contact me at [george.savva@quadram.ac.uk](mailto:george.savva@quadram.ac.uk)
 
 
 
