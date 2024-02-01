@@ -90,3 +90,5 @@ modelsummary::modelsummary(list("Ignoring blocks"=model1,
 ggplot(dat2) + aes(x=block, y=plot) + geom_tile(col="black", aes(fill=factor(block))) + 
   geom_text(aes(label=sprintf("%s\n%0.2f",treatment,height)))
 
+
+
